@@ -4,7 +4,7 @@
 using namespace std;
 
 // Function to state how much money the player has
-// Parameter money: reference the money variable (q)
+// Parameter money: reference the money variable (wallet)
 void checkWallet(int money) {
     cout << "You now have " << money << " dollars. \n"; 
 }
